@@ -1,0 +1,26 @@
+body {
+    background-color: #f3ece7; /* Café claro */
+}
+.bg-brown {
+    background-color: #8b6b61; /* Color café */
+}
+.text-brown {
+    color: #8b6b61; /* Texto café */
+}
+.bg-light-brown {
+    background-color: #d7b8a8; /* Café claro */
+}
+.hero-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.btn-primary{
+    background-color: #8b6b61;
+}
+p{
+    color: #0b0b0b;
+}
+.border {
+    border: 2px solid #b89f6d; /* Color café claro */
+    border-radius: 10px; /* Bordes redondeados opcional */
+}
